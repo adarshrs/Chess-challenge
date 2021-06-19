@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target stockfish[0m
+/bin/sh: 1: cd: can't cd to /home/adarsh/chess_challenge/src/ros-chess-challenge/stockfish/Stockfish/src
+CMakeFiles/stockfish.dir/build.make:57: recipe for target 'CMakeFiles/stockfish' failed
+make[2]: *** [CMakeFiles/stockfish] Error 2
+CMakeFiles/Makefile2:227: recipe for target 'CMakeFiles/stockfish.dir/all' failed
+make[1]: *** [CMakeFiles/stockfish.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

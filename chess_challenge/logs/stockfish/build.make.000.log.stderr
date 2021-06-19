@@ -1,0 +1,4 @@
+/bin/sh: 1: cd: can't cd to /home/adarsh/chess_challenge/src/ros-chess-challenge/stockfish/Stockfish/src
+make[2]: *** [CMakeFiles/stockfish] Error 2
+make[1]: *** [CMakeFiles/stockfish.dir/all] Error 2
+make: *** [all] Error 2

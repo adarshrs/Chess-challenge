@@ -1,0 +1,5 @@
+ros-chess-challenge/stockfish
+/home/adarsh/chess_challenge/devel/.private/stockfish/cmake.lock /home/adarsh/chess_challenge/devel/./cmake.lock
+/home/adarsh/chess_challenge/devel/.private/stockfish/lib/pkgconfig/stockfish.pc /home/adarsh/chess_challenge/devel/lib/pkgconfig/stockfish.pc
+/home/adarsh/chess_challenge/devel/.private/stockfish/share/stockfish/cmake/stockfishConfig.cmake /home/adarsh/chess_challenge/devel/share/stockfish/cmake/stockfishConfig.cmake
+/home/adarsh/chess_challenge/devel/.private/stockfish/share/stockfish/cmake/stockfishConfig-version.cmake /home/adarsh/chess_challenge/devel/share/stockfish/cmake/stockfishConfig-version.cmake

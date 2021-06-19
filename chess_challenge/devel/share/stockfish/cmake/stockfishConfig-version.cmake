@@ -1,0 +1,1 @@
+/home/adarsh/chess_challenge/devel/.private/stockfish/share/stockfish/cmake/stockfishConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/adarsh/chess_challenge/devel/.private/chess/lib/python2.7/dist-packages/chess/msg/_Player.py

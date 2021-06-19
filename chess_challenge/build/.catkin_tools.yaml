@@ -1,0 +1,6 @@
+devel_space: /home/adarsh/chess_challenge/devel
+install: false
+install_space: /home/adarsh/chess_challenge/install
+profile: default
+source_space: /home/adarsh/chess_challenge/src
+workspace: /home/adarsh/chess_challenge

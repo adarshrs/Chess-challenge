@@ -1,0 +1,12 @@
+Symlinking /home/adarsh/chess_challenge/devel/./local_setup.bash
+Symlinking /home/adarsh/chess_challenge/devel/./cmake.lock
+Symlinking /home/adarsh/chess_challenge/devel/./setup.zsh
+Symlinking /home/adarsh/chess_challenge/devel/./local_setup.zsh
+Symlinking /home/adarsh/chess_challenge/devel/./setup.bash
+Symlinking /home/adarsh/chess_challenge/devel/./_setup_util.py
+Symlinking /home/adarsh/chess_challenge/devel/./setup.sh
+Symlinking /home/adarsh/chess_challenge/devel/./local_setup.sh
+Symlinking /home/adarsh/chess_challenge/devel/./env.sh
+Symlinking /home/adarsh/chess_challenge/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/adarsh/chess_challenge/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/adarsh/chess_challenge/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
